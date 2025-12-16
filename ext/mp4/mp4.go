@@ -5,7 +5,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/elazarl/goproxy"
+	"github.com/andreparames/goproxy"
 )
 
 // IsMp4Video is a response condition matching typical Content-Type headers for MP4 videos.
